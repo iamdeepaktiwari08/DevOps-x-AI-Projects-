@@ -1,6 +1,7 @@
 HanumatKripa ❤️
 # DevOps-x-AI-Projects-
-Master the essential DevOps workflow for AI applications! 
+Master the essential DevOps workflow for AI applications.
+
 1- Build a RAG API
 
 2- containerize it with Docker
